@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dddanmar
+- 👀 I’m interested in Python, Linux and Cloud Computing.
+- 🌱 I’m currently learning React and how to deal with late adult ADHD.
+- 💞️ I’m looking to collaborate on cool stuff.
+- 📫 How to reach me @dddanmar
